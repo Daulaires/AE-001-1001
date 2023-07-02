@@ -1,8 +1,8 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=AE-001-1001&style=flat-square)
+![](https://komarev.com/ghpvc/?username=AE-001-1001&style=plastic)
+Just a person who wants to make something of themselves
 <!--
 **AE-001-1001/AE-001-1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
