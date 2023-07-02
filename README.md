@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username="AE-001-1001"&style=flat-square)
+![](https://komarev.com/ghpvc/?username=AE-001-1001&style=flat-square)
 <!--
 **AE-001-1001/AE-001-1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
