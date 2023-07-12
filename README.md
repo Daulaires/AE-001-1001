@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://hit.yhype.me/github/profile?user_id=102845355)    
 ![](https://komarev.com/ghpvc/?username=AE-001-1001&style=plastic)   
 Just a person who wants to make something of themselves.    
